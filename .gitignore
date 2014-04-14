@@ -2,3 +2,4 @@ node_modules
 *.log
 .vagrant
 *.swp
+node_modules
